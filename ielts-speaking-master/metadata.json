@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Speaking Master",
+  "description": "A comprehensive study companion for IELTS Speaking topics, featuring sample answers, vocabulary building, and pronunciation aids based on curated course materials.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
